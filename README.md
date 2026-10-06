@@ -6,8 +6,8 @@
   <h1>AnnaChat</h1>
   <p>面向 Paper 与 Folia 的模块化聊天管理插件</p>
   <p>
-    <a href="https://github.com/AnkiLove/AnnaChat/releases"><img src="https://img.shields.io/github/v/release/AnkiLove/AnnaChat?style=flat-square&label=release" alt="Release"></a>
-    <a href="https://github.com/AnkiLove/AnnaChat/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/AnkiLove/AnnaChat/build.yml?style=flat-square&label=build" alt="Build"></a>
+    <a href="https://github.com/omiyi/AnnaChat/releases"><img src="https://img.shields.io/github/v/release/omiyi/AnnaChat?style=flat-square&label=release" alt="Release"></a>
+    <a href="https://github.com/omiyi/AnnaChat/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/omiyi/AnnaChat/build.yml?style=flat-square&label=build" alt="Build"></a>
     <img src="https://img.shields.io/badge/Java-25-437291?style=flat-square" alt="Java 25">
     <img src="https://img.shields.io/badge/Paper%20%7C%20Folia-26.x-00a9e0?style=flat-square" alt="Paper and Folia 26.x">
   </p>
@@ -42,7 +42,7 @@ AnnaChat 是一个以配置为中心的 Minecraft 聊天管理插件。它将频
 
 ## 快速开始
 
-1. 从 [Releases](https://github.com/AnkiLove/AnnaChat/releases) 下载最新 JAR。
+1. 从 [Releases](https://github.com/omiyi/AnnaChat/releases) 下载最新 JAR。
 2. 将 JAR 放入服务端的 `plugins` 目录。
 3. 使用 Java 25 启动 Paper 或 Folia。
 4. 首次启动后按需编辑生成的 YAML 文件。
@@ -222,6 +222,6 @@ docs/assets                          README 横幅资源
 
 ## 发布
 
-当前稳定版本：[v1.2.1](https://github.com/AnkiLove/AnnaChat/releases/tag/v1.2.1)
+当前稳定版本：[v1.2.1](https://github.com/omiyi/AnnaChat/releases/tag/v1.2.1)
 
 仓库主题标签：`minecraft`、`minecraft-plugin`、`paper`、`folia`、`chat`、`java`、`gradle`、`placeholderapi`、`mysql`、`minimessage`。
